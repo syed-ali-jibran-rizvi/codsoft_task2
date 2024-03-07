@@ -39,9 +39,6 @@ This Android application is a classic Tic Tac Toe game where players can compete
 ### Contributing
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgments
 - This project was inspired by the classic Tic Tac Toe game and various Android tutorials and resources available online.
 
